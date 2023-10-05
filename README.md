@@ -1,4 +1,4 @@
 # my_img_data
 
-출처 적기
+출처 kaggle 사이트 데이터셋
 https://www.kaggle.com/datasets/rafsunahmad/choose-your-pet
